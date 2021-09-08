@@ -1,6 +1,7 @@
 # VBA-challenge_JY
 
-**VBA scripting to analyze real stock market data. **
+VBA scripting to analyze real stock market data.
+
 The script containes two macros as below, please copy the codes into the spreadsheet with raw data and run the two subs individually.
 
 * Sub Stock_market_analysis(): Summarizes the yearly changes and stock volumes for each ticker
