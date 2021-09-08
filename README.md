@@ -1,6 +1,6 @@
 # VBA-challenge_JY
 
-VBA scripting to analyze real stock market data.
+VBA scripting analyzes real stock market data.
 
 The scripting containes two macros as below, please copy the codes into the spreadsheet with raw data and run the two subs individually.
 
