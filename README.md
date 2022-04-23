@@ -1,4 +1,4 @@
-# VBA-challenge_JY
+# VBA-Stock Market
 
 VBA script analyzes real stock market data.
 
